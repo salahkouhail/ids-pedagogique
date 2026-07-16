@@ -1,7 +1,4 @@
-# Étude et Réalisation d’un système de
-détection d’intrusion d’un réseau
-informatique :
-application à un réseau pédagogique
+# Étude et Réalisation d’un système dedétection d’intrusion d’un réseau informatique : application à un réseau pédagogique
 
 > Projet de Fin d'Année (PFA) — EMSI Casablanca 2025-2026
 > Réalisé par : **Salah-Eddine Kouhail** 
