@@ -1,7 +1,7 @@
 # 🛡️ IDS Pédagogique — Système de Détection d'Intrusions
 
 > Projet de Fin d'Année (PFA) — EMSI Casablanca 2025-2026
-> Réalisé par : **Salah-Eddine Kouhail** & **Yassin Jaziri**
+> Réalisé par : **Salah-Eddine Kouhail** 
 > Encadrant : **M. Sayouti Adil**
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
