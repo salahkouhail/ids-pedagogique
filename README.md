@@ -87,6 +87,16 @@ ids-pedagogique/
 ```
 
 ---
+## 📸 Captures d'écran
+
+### Dashboard SOC
+![Dashboard SOC](screenshots/soc.png)
+
+### Rapport PDF généré
+![Export PDF](screenshots/rapp1.png)
+![Export PDF](screenshots/rapp2.png)
+
+> D'autres captures (Brute Force, DDoS, ARP Spoofing) sont disponibles dans le dossier `/screenshots`.
 
 ## ⚙️ Installation & Utilisation
 
